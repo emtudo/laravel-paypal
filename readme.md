@@ -35,12 +35,20 @@ vi .env
 php artisan key:generate
 ```
 
-## Rode as migrates
+### Rode as migrates
 ```
 php artisan migrate
 ```
 
-## Rodando a aplicação
+### Rodando a aplicação
 ```
-php artisan server
+php artisan serve
 ```
+
+### Testar
+
+Abra o endereço gerado pelo comando acima no seu navegador, provavelmente
+```
+http://localhost:8000/
+```
+
