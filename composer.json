@@ -7,7 +7,7 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
-        "resultsystems/laravel-paypal": "^0.0.2"
+        "resultsystems/laravel-paypal": "^0.0.23"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
@@ -48,11 +48,5 @@
     },
     "config": {
         "preferred-install": "dist"
-    },
-    "repositories": [
-        {
-            "type":"vcs",
-            "url":"git@bitbucket.org:emtudo/laravel-paypal-request"
-        }
-    ]
+    }
 }
