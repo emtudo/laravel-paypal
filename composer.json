@@ -7,6 +7,7 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
+        "guzzlehttp/guzzle": "^6.2",
         "resultsystems/laravel-paypal": "^0.0.23"
     },
     "require-dev": {
